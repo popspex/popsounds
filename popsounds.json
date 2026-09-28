@@ -1,8 +1,14 @@
 {
-  "vocals": [
+  "female-vocals": [
     "vocals/vocal1.wav",
     "vocals/vocal2.wav",
-    "vocals/vocal3.mp3"
+    "vocals/vocal3.flac",
+    "vocals/vocal4.wav",
+    "vocals/vocal5.wav",
+    "vocals/vocal6.wav"
+  ], 
+  "male-vocals": [
+    "vocals/vocal1.mp3"
   ],
 
   "guitars": [
