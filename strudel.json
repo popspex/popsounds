@@ -2,10 +2,9 @@
   "female-vocals": [
     "female-vocals/vocal1.wav",
     "female-vocals/vocal2.wav",
-    "female-vocals/vocal3.flac",
+    "female-vocals/vocal3.wav",
     "female-vocals/vocal4.wav",
-    "female-vocals/vocal5.wav",
-    "female-vocals/vocal6.wav"
+    "female-vocals/vocal5.wav"
   ],
   "male-vocals": [
     "male-vocals/vocal1.mp3"
