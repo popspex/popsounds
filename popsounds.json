@@ -1,0 +1,11 @@
+{
+  "vocals": [
+    "vocals/vocal1.wav",
+    "vocals/vocal2.wav",
+    "vocals/vocal3.mp3"
+  ],
+
+  "guitars": [
+    "guitar/guitar1.wav",
+  ]
+}
